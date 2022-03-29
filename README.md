@@ -1,4 +1,4 @@
-# calculator
+# ONLINE CALCULATOR
 
 Here is the small basic project that every beginner should do .
 
